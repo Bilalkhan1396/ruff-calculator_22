@@ -1,2 +1,1 @@
-# ruff-calculator_22
-this is simple calculator
+# ruff_calculator_22
